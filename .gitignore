@@ -1,0 +1,5 @@
+# reference folder
+ref/
+
+# crawling
+data_get.ipynb
